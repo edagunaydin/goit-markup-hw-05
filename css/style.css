@@ -957,7 +957,7 @@ fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 
-.modal-form-checkbox:checked + .modal-checkbox-label > .modal-checkbox-span-svg {
+.modal-form-checkbox:checked + .modal-checkbox-label > .modal-checkbox-span {
 background-color: #404BBF;
 border: none;
 fill: #F4F4FD;
